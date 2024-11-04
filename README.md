@@ -3,6 +3,8 @@ Nesse projeto o usuário poderá escolher um número para a verificação da tab
 
 Recomendação de site para compilar o código: https://www.programiz.com/
 
+Vamos nos conectar ? Segue meu perfil: https://github.com/ProfAdaelOliveira/SobreMim_Portifolio
+
 Segue projeto em C: 
 
     #include <stdio.h>
