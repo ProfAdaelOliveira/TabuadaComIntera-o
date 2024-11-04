@@ -3,15 +3,15 @@ Nesse projeto o usuário poderá escolher um número para a verificação da tab
 
 Recomendação de site para compilar o código: https://www.programiz.com/
 
-// Segue projeto em C: 
+Segue projeto em C: 
 
-#include <stdio.h>
-#include <unistd.h> // Biblioteca para usar a função sleep
+    #include <stdio.h>
+    #include <unistd.h> // Biblioteca para usar a função sleep
+    int main() {    
 
-int main() {
     int num, i;
     char decisao;
-
+    
     do {
         // Entrada de um número para a tabuada
         printf("Digite um número para ver a tabuada: ");
@@ -44,7 +44,7 @@ int main() {
         }
     } while (decisao == '1'); // Repete se o usuário escolher '1'
 
-    return 0;
-}
+    return 0; 
+    }
 
 
